@@ -12,14 +12,15 @@ body {
     border-radius:60%; 
     position: relative;
     animation: bounce 3s ease-in-out infinite;
+}
 .box {
-    position: absolute;
+    position:cente
+    margin-left: 50px;
     width: 200px;
     height: 100px;
     background-color: #619cd3;
     border-radius: 20px;
     animation:rotate 3s linear infinite;
-}
 }
 @keyframes bounce {
     0% {
