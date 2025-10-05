@@ -1,6 +1,5 @@
 body {
     display: flex;
-    justify-content: center;;
     align-items: flex-end;
     height: 100vh;
     background-color: #0b1720;
@@ -13,9 +12,8 @@ body {
     border-radius:60%; 
     position: relative;
     animation: bounce 3s ease-in-out infinite;
-.box{
+.box {
     position: absolute;
-    bottom: 0;
     width: 200px;
     height: 100px;
     background-color: #619cd3;
